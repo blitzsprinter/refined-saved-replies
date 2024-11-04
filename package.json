@@ -2,13 +2,13 @@
 	"name": "refined-saved-replies",
 	"version": "0.0.0",
 	"description": "Chrome extension for GitHub's Saved Replies that adds replies from a repository's .github/replies.yml. 📨",
-	"homepage": "https://github.com/JoshuaKGoldberg/refined-saved-replies#readme",
+	"homepage": "https://github.com/biltzsprinter/refined-saved-replies#readme",
 	"bugs": {
-		"url": "https://github.com/JoshuaKGoldberg/refined-saved-replies/issues"
+		"url": "https://github.com/biltzsprinter/refined-saved-replies/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JoshuaKGoldberg/refined-saved-replies"
+		"url": "https://github.com/biltzsprinter/refined-saved-replies"
 	},
 	"license": "MIT",
 	"author": {
