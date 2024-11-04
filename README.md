@@ -1,9 +1,5 @@
 <h1 align="center">Refined Saved Replies</h1>
 
-> ❌ This seems to have been broken in the latest GitHub web update.
-> See [🐛 Bug: No longer works in latest GitHub web update](https://github.com/biltzsprinter/refined-saved-replies/issues/161).
-> Accepting PRs to fix, please! ❌
-
 <p align="center">Chrome extension for GitHub's Saved Replies that adds replies from a repository's <code>.github/replies.yml</code>. 📨</p>
 
 <p align="center">
@@ -14,6 +10,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- prettier-ignore-end -->
 </a>
+  
+<p>
 	<a href="https://codecov.io/gh/JoshuaKGoldberg/refined-saved-replies" target="_blank">
 		<img alt="Codecov Test Coverage" src="https://codecov.io/gh/JoshuaKGoldberg/refined-saved-replies/branch/main/graph/badge.svg"/>
 	</a>
@@ -26,9 +24,9 @@
 	<a href="https://github.com/sponsors/JoshuaKGoldberg" target="_blank">
 		<img alt="Sponsor: On GitHub" src="https://img.shields.io/badge/sponsor-on_github-21bb42.svg" />
 	</a>
+  
 	<img alt="Style: Prettier" src="https://img.shields.io/badge/style-prettier-21bb42.svg" />
-	<img alt="TypeScript: Strict" src="https://img.shields.io/badge/typescript-strict-21bb42.svg" />
-	<img alt="Contributor Covenant" src="https://img.shields.io/badge/code_of_conduct-enforced-21bb42" />
+	<img alt=TypeScript: Strict" src="https://img.shields.io/badge/typescript-strict-21bb42.svg" />
 </p>
 
 Saved Replies are great, but oftentimes repository maintainers need a way to share common replies per-repository.
@@ -36,7 +34,8 @@ This extension modifies the Saved Replies for issues or pull requests on any rep
 
 ## Usage
 
-[![Available in the Chrome Web Store](assets/chrome.png)](https://chrome.google.com/webstore/detail/refined-saved-replies/ngcinicnlicdndmpcfjjifononfcceih/)
+<a href="https://chrome.google.com/webstore/detail/refined-saved-replies/ngcinicnlicdndmpcfjjifononfcceih"><img alt="Available in the Chrome Web Store" width="206px" height="58px" src="./assets/chrome.png"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/refined-saved-replies"><img alt="Firefox: Get the Add-On" width="172px" height="60px" src="./assets/firefox.png"></a>
 
 ## Development
 
